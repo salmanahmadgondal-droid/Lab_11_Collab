@@ -1,0 +1,1 @@
+Our group members are Salman Ahmad and Omar Khan. In this lab, we learned branching, merge conflicts, forking, pull requests, and GitHub Pages. This repository is part of our collaboration task.
